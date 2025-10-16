@@ -27,4 +27,4 @@ public class fir {
 
         System.out.println(sum);
     }
-}public static
+}
